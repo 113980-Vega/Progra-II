@@ -1,0 +1,29 @@
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\bin\Debug\Carpinteria_2024.exe.config
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\bin\Debug\Carpinteria_2024.exe
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\bin\Debug\Carpinteria_2024.pdb
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\obj\Debug\Carpinteria_2024.csproj.AssemblyReference.cache
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\obj\Debug\Carpinteria_2024.csproj.SuggestedBindingRedirects.cache
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\obj\Debug\Carpinteria_2024.frmPrincipal.resources
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\obj\Debug\Carpinteria_2024.Properties.Resources.resources
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\obj\Debug\Carpinteria_2024.csproj.GenerateResource.cache
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\obj\Debug\Carpinteria_2024.csproj.CoreCompileInputs.cache
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\obj\Debug\Carpinteria_2024.exe
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\obj\Debug\Carpinteria_2024.pdb
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\obj\Debug\Carpinteria_2024.Formularios.FrmNuevoPresupuesto.resources
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\obj\Debug\Carpinteria_2024.Formularios.FrmConsultarPresupuestos.resources
+C:\TECNICATURA DE PROGRAMACIÓN 2022\SEGUNDO CUATRIMESTRE\PROGAMACION II\Repaso Final Febrero Progra II\Carpinteria_2024\obj\Debug\Carpinteria_2024.Presentacion.FrmDetallesPresupuesto.resources
+C:\Users\max_c\Desktop\Carpinteria_2024\bin\Debug\Carpinteria_2024.exe.config
+C:\Users\max_c\Desktop\Carpinteria_2024\bin\Debug\Carpinteria_2024.exe
+C:\Users\max_c\Desktop\Carpinteria_2024\bin\Debug\Carpinteria_2024.pdb
+C:\Users\max_c\Desktop\Carpinteria_2024\obj\Debug\Carpinteria_2024.csproj.AssemblyReference.cache
+C:\Users\max_c\Desktop\Carpinteria_2024\obj\Debug\Carpinteria_2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\max_c\Desktop\Carpinteria_2024\obj\Debug\Carpinteria_2024.Formularios.FrmConsultarPresupuestos.resources
+C:\Users\max_c\Desktop\Carpinteria_2024\obj\Debug\Carpinteria_2024.Presentacion.FrmDetallesPresupuesto.resources
+C:\Users\max_c\Desktop\Carpinteria_2024\obj\Debug\Carpinteria_2024.Formularios.FrmModificarPresupuesto.resources
+C:\Users\max_c\Desktop\Carpinteria_2024\obj\Debug\Carpinteria_2024.Formularios.FrmNuevoPresupuesto.resources
+C:\Users\max_c\Desktop\Carpinteria_2024\obj\Debug\Carpinteria_2024.FrmPrincipal.resources
+C:\Users\max_c\Desktop\Carpinteria_2024\obj\Debug\Carpinteria_2024.Properties.Resources.resources
+C:\Users\max_c\Desktop\Carpinteria_2024\obj\Debug\Carpinteria_2024.csproj.GenerateResource.cache
+C:\Users\max_c\Desktop\Carpinteria_2024\obj\Debug\Carpinteria_2024.csproj.CoreCompileInputs.cache
+C:\Users\max_c\Desktop\Carpinteria_2024\obj\Debug\Carpinteria_2024.exe
+C:\Users\max_c\Desktop\Carpinteria_2024\obj\Debug\Carpinteria_2024.pdb
